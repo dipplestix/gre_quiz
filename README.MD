@@ -10,6 +10,6 @@ Open python
 
 >>> quiz.play_game(10)
 
->>> quiz.comprehensive_game
+>>> quiz.comprehensive_game()
 
 if you do the comprehensive game, quiz.incorrect will give a list of the ones you got wrong
