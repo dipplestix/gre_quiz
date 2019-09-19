@@ -1,7 +1,9 @@
 Instructions:
 
 Clone repo
+
 Open python
+
 >>> from gre_quiz import *
 
 >>> quiz = GREQuiz()
